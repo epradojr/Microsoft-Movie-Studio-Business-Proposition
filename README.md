@@ -1,25 +1,22 @@
 # Microsoft-Movie-Studio-Business-Proposition
 
-**Authors**: Student1, Student2
+**Authors**: Anthony Warren, Edel Prado, Hatice Kastan, Justin Sohn, Marcelo Scatena
 
 ## Overview
 
-A one-paragraph overview of the project, including the business problem, data, methods, results and recommendations.
+Microsfot is creating a movie studio and wants business recommendations for it.  Information was gathered by cleaning and analyzing databases from Imdb, Rotten Tomatoes and Tmdb. With that analysis it was possible to gather which movies, studios, actors, writers, producers and genres were perfoming better at the box office. The recommendations for Mycrosoft Movie Studio that we suggest are to: Buy the Intelectual Property of the book franchise *Throne of Glass* and make a series of movies; Make an R Rated Call of Duty or Halo movie franchise; Work with actors or directors that have experience either writing franchise movies (e.g. Anthony and Joseph Russo), or that their names carry such a weight that it turns into a franchise (e.g. Ryan Reynolds, Dwayne Johnson, Vin Diesel, Keanu Reeves).
 
 ## Business Problem
 
-Summary of the business problem you are trying to solve, and the data questions that you plan to answer in order to solve them.
+Creating a startegy to develop a new studio demands data. To start a studio Microsoft needs to first come up with a plan of action, regarding which kind of movies to make, who to hire and what properties to use. With that in mind we will look into what are the movies that are currently performing better at the box office, which studios, actors, writers, producers are behind them, from which studio are they and which genre and rating. We'll also look into reviews to collect popularity information. The results of these findings will provide information on which steps Microsoft should take to be the most successful in their new endeavor.
 
 ***
-Questions to consider:
-* What are the business's pain points related to this project?
-* How did you pick the data analysis question(s) that you did?
-* Why are these questions important from a business perspective?
-***
+
 
 ## Data
 
-Describe the data being used for this project.
+This project analysed data from Imdb, Rotten Tomatoes and Tmdb. They provide crucial information regarding successful movies and correlate them to studio, crew and ratings. 
+The data traces back from the 1920s to 2018. We sampled most information from the last ten years, since Microsoft needs current and relevant information.
 
 ***
 Questions to consider:
@@ -31,17 +28,14 @@ Questions to consider:
 
 ## Methods
 
-Describe the process for analyzing or modeling the data. For Phase 1, this will be descriptive analysis.
-
-***
-Questions to consider:
-* How did you prepare, analyze or model the data?
-* Why is this approach appropriate given the data and the business problem?
+The datasets had to be cleaned and filtered. Small values that were not related to top grossing movies were dropped. NaN values were handled in a case to case basis, and all numbers were turned into integers.
+The data was modeled to arrive in the top grossing movies, in the top grossing actors, writer and directors, popularity by rating, gross by genre.
+With the information given to us by these visualizations, we can accurately reccommend a proposition to Microsoft that will mimic the wanted results.
 ***
 
 ## Results
 
-Present your key results. For Phase 1, this will be findings from your descriptive analysis.
+The results indicate a clear movement towards franchise movies that have in-movie universes. Avengers, Star Wars, Jurassic Park, Fast and Furious and Harry Potter are all amongst the highest grossing movies of all time, most having multiple instances in it, and are all franchise movies.
 
 ***
 Questions to consider:
