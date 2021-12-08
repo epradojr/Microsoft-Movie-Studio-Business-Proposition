@@ -51,7 +51,7 @@ These visualisations will give us enoguh information to make accurate prediction
 Here is an example of how to embed images from your sub-folder:
 
 ### Visual 1
-![graph1](./images/viz1.png)
+![graph1](./images/.Microsoft_logo.png)
 
 ## Conclusions
 
@@ -78,12 +78,12 @@ We reccommend as well, regardless of the which proposition is followed, to make 
 
 Please review our full analysis in [our Jupyter Notebook](./dsc-phase1-project.ipynb) or our [presentation](./DS_Project_Presentation.pdf).
 
-For any additional questions, please contact 
-**Anthony Warren: anthonywarren6@gmail.com**
-**Edel Prado: edel.prado.jr@gmail.com**
-**Hatice Kastan: kastanhatice@gmail.com**
-**Justin Sohn: jusohn2015@gmail.com**
-**Marcelo Scatena: marcelo.oddo@gmail.com**
+For any additional questions, please contact<br />
+**Anthony Warren: anthonywarren6@gmail.com**<br />
+**Edel Prado: edel.prado.jr@gmail.com**<br />
+**Hatice Kastan: kastanhatice@gmail.com**<br />
+**Justin Sohn: jusohn2015@gmail.com**<br />
+**Marcelo Scatena: marcelo.oddo@gmail.com**<br />
 
 ## Repository Structure
 
