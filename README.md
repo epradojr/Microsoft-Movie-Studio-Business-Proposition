@@ -51,7 +51,7 @@ These visualisations will give us enoguh information to make accurate prediction
 Here is an example of how to embed images from your sub-folder:
 
 ### Visual 1
-![graph1](./images/.Microsoft_logo.png)
+![graph1](./images/Microsoft_logo.png)
 
 ## Conclusions
 
