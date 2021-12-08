@@ -15,7 +15,7 @@ Microsfot is creating a movie studio and wants business recommendations for it. 
 
 ## Business Problem
 
-Creating a startegy to develop a new studio demands data. To start a studio Microsoft needs to first come up with a plan of action, regarding which kind of movies to make, who to hire and what properties to use. With that in mind we will look into what are the movies that are currently performing better at the box office, which studios, actors, writers, producers are behind them, from which studios are they and which are their genre and rating. We'll also look into reviews to collect popularity information. The results of these findings will provide information on which steps Microsoft should take to be the most successful in their new endeavor.
+Creating a strategy to develop a new studio demands data. To start a studio Microsoft needs to first come up with a plan of action, regarding which kind of movies to make, who to hire and what properties to use. With that in mind we will look into what are the movies that are currently performing better at the box office, which studios, actors, writers, producers are behind them, from which studios are they and which are their genre and rating. We'll also look into reviews to collect popularity information. The results of these findings will provide information on which steps Microsoft should take to be the most successful in their new endeavor.
 ***
 
 ## Data
