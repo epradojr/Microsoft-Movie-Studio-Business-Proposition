@@ -82,7 +82,7 @@ These genres are the most popular acording to data votes.
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](./dsc-phase1-project.ipynb) or our [presentation](./DS_Project_Presentation.pdf).
+Please review our full analysis in [our Jupyter Notebook](./dsc-phase1-project.ipynb) or our [presentation](./Presentation.pdf).
 
 For any additional questions, please contact<br />
 **Anthony Warren: anthonywarren6@gmail.com**<br />
